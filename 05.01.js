@@ -31,3 +31,4 @@ function smallToLarge(arr) {
 
 console.log("-------");
 console.log(smallToLarge(arr));
+console.log(smallToLarge(arr).reverse());
